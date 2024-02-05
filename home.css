@@ -2,6 +2,36 @@
     margin: 0;
     padding: 0;
 }
+body {
+    background-color: antiquewhite;
+}
+
+.heading {
+    background-color: #84e6e8;
+    padding: 10px 80px 80px 80px;
+    width: 1500px;
+    height: auto;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 35px;
+    box-sizing: border-box;
+    border-radius: 30px;
+}
+
+.recipes a {
+    color: black;
+    background-color: #fff;
+    padding: 10px;
+    margin: 5px;
+    display: inline-block;
+
+}
+
+
+/* * {
+    margin: 0;
+    padding: 0;
+}
 
 body {
     font-family: Arial, Helvetica, sans-serif;
@@ -27,4 +57,4 @@ h1 {
     border: 2px solid;
     background-color: #f5f6ea;
     margin: 5px;
-}
+} */
